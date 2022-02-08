@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressTest.Lib", "ProgressTest.Lib\ProgressTest.Lib.csproj", "{447F9153-09FB-437C-BAEA-6D65889BFA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressTest.Lib2", "ProgressTest.Lib2\ProgressTest.Lib2.csproj", "{81F426CD-00BA-4E4F-AB5C-31FACF00AFD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressTest.App", "ProgressTest.App\ProgressTest.App.csproj", "{F17B773A-E07A-489D-8B17-95F1725DF896}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447F9153-09FB-437C-BAEA-6D65889BFA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447F9153-09FB-437C-BAEA-6D65889BFA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447F9153-09FB-437C-BAEA-6D65889BFA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447F9153-09FB-437C-BAEA-6D65889BFA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F426CD-00BA-4E4F-AB5C-31FACF00AFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F426CD-00BA-4E4F-AB5C-31FACF00AFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F426CD-00BA-4E4F-AB5C-31FACF00AFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F426CD-00BA-4E4F-AB5C-31FACF00AFD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F17B773A-E07A-489D-8B17-95F1725DF896}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F17B773A-E07A-489D-8B17-95F1725DF896}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F17B773A-E07A-489D-8B17-95F1725DF896}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F17B773A-E07A-489D-8B17-95F1725DF896}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

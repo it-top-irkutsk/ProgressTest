@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ProgressTest.Lib2\ProgressTest.Lib2.csproj" />
+      <ProjectReference Include="..\ProgressTest.Lib\ProgressTest.Lib.csproj" />
+    </ItemGroup>
+
+</Project>
